@@ -22,7 +22,7 @@ bash bash/train.sh [gpu id]
 
 
 ## 🥷 Evaluation
-### Inference Test Data
+### inference test data
 ```
 bash bash/predict.sh [gpu_id] [AMR dataset version (e.g., 2)] [checpoint path] 
 ```

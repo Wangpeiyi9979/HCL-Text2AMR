@@ -51,6 +51,15 @@ If you use our code, plearse cite our paper:
 
 # 🌝 Acknowledgements
 Our code is based on [SPRING](https://github.com/SapienzaNLP/spring). Thanks for their high quality open codebase.  
+```
+@inproceedings{bevilacqua-etal-2021-one,
+    title = {One {SPRING} to Rule Them Both: {S}ymmetric {AMR} Semantic Parsing and Generation without a Complex Pipeline},
+    author = {Bevilacqua, Michele and Blloshmi, Rexhina and Navigli, Roberto},
+    booktitle = {Proceedings of AAAI},
+    year = {2021}
+}
+```
+
 
 # Pretrain Models
 - Todo

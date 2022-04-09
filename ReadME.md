@@ -15,7 +15,7 @@ pip install -r requirements.txt
 pip install -e .
 ```
 ## 🏋🏻‍♂️ Train the model
-Modify the data path in `configs/HCL.yaml`. The run:
+Modify the data path in `configs/HCL.yaml`. Then run:
 ```
 bash bash/train.sh [gpu id]
 ```

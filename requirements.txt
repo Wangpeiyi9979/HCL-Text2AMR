@@ -8,5 +8,4 @@ smatch
 transformers==2.11.0
 wandb
 PyYAML>=5.1
-
-
+torch==1.8

@@ -4,9 +4,7 @@ Source code of ACL2022 short paper: [Hierarchical Curriculum Learning for AMR Pa
 # 🔥 Introduction
 The sequence-to-sequence models have become a main stream paradigm for AMR parsing. However, there exists a gap between their flat training objective (i.e., equally treats all output tokens) and the hierarchical AMR structure, which limits the ability of model to learn the inherent hierarchical structure of AMR. To bridge this gap, we propose a Hierarchical Curriculum Learning (HCL) framework with Structure-level (SC) and Instance-level Curricula (IC). SC switches progressively from core to detail AMR semantic elements while IC transits from structure-simple to -complex AMR instances during training.
 
-<div align=center>
-<img width="1300" height="450" src="./overview.pdf"/>
-</div>
+![overview](./fig/overview.png)
 
 
 
@@ -24,7 +22,7 @@ bash bash/train.sh [gpu id]
 
 
 ## 🥷 Evaluation
-### Inference Test Data
+### inference test data
 ```
 bash bash/predict.sh [gpu_id] [AMR dataset version (e.g., 2)] [checpoint path] 
 ```

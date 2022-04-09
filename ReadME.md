@@ -41,12 +41,7 @@ bash bash/fine-eval.sh [AMR dataset version]
 # 🌝 Citation
 If you use our code, plearse cite our paper:
 ```
-@article{wang2021hierarchical,
-  title={Hierarchical Curriculum Learning for AMR Parsing},
-  author={Wang, Peiyi and Chen, Liang and Liu, Tianyu and Chang, Baobao and Sui, Zhifang},
-  journal={arXiv preprint arXiv:2110.07855},
-  year={2021}
-}
+todo
 ```
 
 # 🙏 Acknowledgements

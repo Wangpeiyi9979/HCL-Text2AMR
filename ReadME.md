@@ -49,7 +49,7 @@ If you use our code, plearse cite our paper:
 }
 ```
 
-# 🌝 Acknowledgements
+# 🙏 Acknowledgements
 Our code is based on [SPRING](https://github.com/SapienzaNLP/spring). Thanks for their high quality open codebase.  
 ```
 @inproceedings{bevilacqua-etal-2021-one,

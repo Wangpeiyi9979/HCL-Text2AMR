@@ -1,1 +1,2 @@
-# We modify some source code of spring_amr in this folder
+Most code are from [spring_amr](https://github.com/SapienzaNLP/spring/tree/main/spring_amr).
+However We modify some files, e.g., `dataset.py` for HCL traiing.

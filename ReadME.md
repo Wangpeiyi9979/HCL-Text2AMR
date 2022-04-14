@@ -56,5 +56,5 @@ Our code is based on [SPRING](https://github.com/SapienzaNLP/spring). Thanks for
 ```
 
 
-# Pretrain Models
+# Model Checkpoints
 - Todo

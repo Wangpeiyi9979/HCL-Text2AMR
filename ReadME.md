@@ -42,12 +42,11 @@ bash bash/fine-eval.sh [AMR dataset version]
 If you use our code, plearse cite our paper:
 ```
 @inproceedings{wang2021hierarchical,
-    title="Hierarchical Curriculum Learning for AMR Parsing",
-    author={Wang, Peiyi and Chen, Liang and Liu, Tianyu and Chang, Baobao and Sui, Zhifang},
-    year={2022},
-    booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics},
-    publisher={Association for Computational Linguistics},
-    url={https://arxiv.org/abs/2110.07855},
+  url = {https://arxiv.org/abs/2110.07855},
+  author = {Wang, Peiyi and Chen, Liang and Liu, Tianyu and Dai, Damai and Cao, Yunbo and Chang, Baobao and Sui, Zhifang},
+  title = {Hierarchical Curriculum Learning for AMR Parsing},
+  year = "2022",
+  booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)",
 }
 ```
 

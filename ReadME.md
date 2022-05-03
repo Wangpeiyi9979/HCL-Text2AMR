@@ -41,7 +41,14 @@ bash bash/fine-eval.sh [AMR dataset version]
 # 🌝 Citation
 If you use our code, plearse cite our paper:
 ```
-todo
+@inproceedings{wang2021hierarchical,
+    title="Hierarchical Curriculum Learning for AMR Parsing",
+    author={Wang, Peiyi and Chen, Liang and Liu, Tianyu and Chang, Baobao and Sui, Zhifang},
+    year={2022},
+    booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics},
+    publisher={Association for Computational Linguistics},
+    url={https://arxiv.org/abs/2110.07855},
+}
 ```
 
 # 🙏 Acknowledgements
@@ -53,6 +60,7 @@ Our code is based on [SPRING](https://github.com/SapienzaNLP/spring). Thanks for
     booktitle = {Proceedings of AAAI},
     year = {2021}
 }
+
 ```
 
 

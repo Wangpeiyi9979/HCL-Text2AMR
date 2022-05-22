@@ -41,12 +41,23 @@ bash bash/fine-eval.sh [AMR dataset version]
 # 🌝 Citation
 If you use our code, please cite our paper:
 ```
-@inproceedings{wang2021hierarchical,
-  author = {Wang, Peiyi and Chen, Liang and Liu, Tianyu and Dai, Damai and Cao, Yunbo and Chang, Baobao and Sui, Zhifang},
-  title = {Hierarchical Curriculum Learning for AMR Parsing},
-  year = "2022",
-  booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)",
-  url = {https://arxiv.org/abs/2110.07855},
+@inproceedings{wang-etal-2022-hierarchical,
+    title = "Hierarchical Curriculum Learning for {AMR} Parsing",
+    author = "Wang, Peiyi  and
+      Chen, Liang  and
+      Liu, Tianyu  and
+      Dai, Damai  and
+      Cao, Yunbo  and
+      Chang, Baobao  and
+      Sui, Zhifang",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-short.37",
+    pages = "333--339",
+    abstract = "Abstract Meaning Representation (AMR) parsing aims to translate sentences to semantic representation with a hierarchical structure, and is recently empowered by pretrained sequence-to-sequence models. However, there exists a gap between their flat training objective (i.e., equally treats all output tokens) and the hierarchical AMR structure, which limits the model generalization. To bridge this gap, we propose a Hierarchical Curriculum Learning (HCL) framework with Structure-level (SC) and Instance-level Curricula (IC). SC switches progressively from core to detail AMR semantic elements while IC transits from structure-simple to -complex AMR instances during training. Through these two warming-up processes, HCL reduces the difficulty of learning complex structures, thus the flat model can better adapt to the AMR hierarchy. Extensive experiments on AMR2.0, AMR3.0, structure-complex and out-of-distribution situations verify the effectiveness of HCL.",
 }
 ```
 

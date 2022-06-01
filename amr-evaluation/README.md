@@ -1,3 +1,8 @@
+# NOTE
+This Project is dirctely from https://github.com/mdtux89/amr-evaluation.
+we modify the ```evaluation.sh``` to compute the smatch score using [smatch.py](https://github.com/snowblink14/smatch/tree/v1.0.4).
+In our paper, we report the results achieved by the ORIGIN [amr-evaluation](https://github.com/mdtux89/amr-evaluation)
+
 # amr-evaluation
 
 Evaluation metrics to compare AMR graphs based on Smatch (http://amr.isi.edu/evaluation.html). The script computes a set of metrics between AMR graphs in addition to the traditional Smatch code:

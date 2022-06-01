@@ -1,5 +1,5 @@
 # NOTE
-This Project is dirctely from https://github.com/mdtux89/amr-evaluation.
+This project is from https://github.com/mdtux89/amr-evaluation.
 we modify the ```evaluation.sh``` to compute the smatch score using [smatch.py](https://github.com/snowblink14/smatch/tree/v1.0.4).
 In our paper, we report the results achieved by the ORIGIN [amr-evaluation](https://github.com/mdtux89/amr-evaluation)
 

@@ -37,6 +37,7 @@ bash bash/blinkified.sh [gpu_id] [AMR dataset version]
 ```
 bash bash/fine-eval.sh [AMR dataset version]
 ```
+To have comparable Smatch scores in our paper, you need to use the ORIGIN scripts available at https://github.com/mdtux89/amr-evaluation, which provide results that are around ~0.3 Smatch points lower than those returned by ```bash bash/fine-eval.sh'''
 
 # 🌝 Citation
 If you use our code, please cite our paper:
